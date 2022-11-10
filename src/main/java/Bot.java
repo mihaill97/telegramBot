@@ -54,7 +54,7 @@ public class Bot extends TelegramLongPollingBot {
                     sendMsg(message, "Что будем настраивать?");
                     break;
                 default:
-                    sendMsg(message,"Доступные коhgfbfghfgtings");
+                    sendMsg(message,"Доступные коhsfdsdsagfbfghfgtings");
             }
         }
 
